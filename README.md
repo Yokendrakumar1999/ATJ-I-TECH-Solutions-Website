@@ -20,3 +20,6 @@ ATJ I-Tech Solutions Website <a href="https://master.d3tvwlb7amvvz8.amplifyapp.c
 <div align="center"
   <img alt="Demo" src="./img/read2.png" />
 </div>
+<div align="center">
+  <img alt="Demo" src="./img/read1.png" />
+</div>
