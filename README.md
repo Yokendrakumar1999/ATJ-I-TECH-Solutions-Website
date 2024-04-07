@@ -15,7 +15,8 @@
 
 ATJ I-Tech Solutions Website <a href="https://master.d3tvwlb7amvvz8.amplifyapp.com/index.html" target="_blank">ATJ I-Tech Solutions</a> which features some of my github projects.<br/>
 
-## Contact
+## Contact Page
+
 <div align="center"
   <img alt="Demo" src="./img/read2.png" />
 </div>
